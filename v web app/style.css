@@ -1,0 +1,14 @@
+header{
+    background-image: url('img/Rectangle\ 2.png');
+    background-repeat: no-repeat;
+    background-size: 500px auto;
+    background-position: top;
+    min-height: 768px; 
+    background-position-y: 55px;
+}
+nav{
+    border: solid 2px red;
+}
+.brand-logo{
+    margin-top:-20px;  
+}
